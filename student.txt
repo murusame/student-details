@@ -1,0 +1,8 @@
+Name: Ivan Osipov
+Student number: A00063770 >> student.txt
+git status
+git status
+
+git status
+git status
+echo Student number: A00063770
